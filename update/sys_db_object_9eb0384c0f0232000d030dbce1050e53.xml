@@ -11,13 +11,14 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>NeedIt Task</label>
+        <label>Needit Needit Task</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_58872_needit_needit_task</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">55a3aa77b8130300651775b34d8f5118</super_class>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">f2601aa6e131330078502406b6333344</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
